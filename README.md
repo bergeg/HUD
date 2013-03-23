@@ -1,7 +1,7 @@
 TF2 HUD
 =======
 minmode is required,
-should work fine on all 16x10 and 4x3 resolutions
+should work fine on most 16x10 and 4x3 resolutions
 
 mostly for vanilla play
 
