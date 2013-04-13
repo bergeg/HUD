@@ -407,6 +407,17 @@ Scheme
 				"outline"	"1"
 			}
 		}
+		"Molot-smallest"
+		{
+		"1"
+			{
+			"name" "Molot"
+			"tall" "17"
+			"weight"	"500"
+				"antialias" 	"1"
+				"outline"	"1"
+			}
+		}
 		"Molot-small"
 		{
 		"1"
